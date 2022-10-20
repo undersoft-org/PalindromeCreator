@@ -1,0 +1,15 @@
+C:\Users\dariu\source\repos\PalindromeCreator\PalindromeCreator\bin\Debug\net6.0\PalindromeCreator.exe
+C:\Users\dariu\source\repos\PalindromeCreator\PalindromeCreator\bin\Debug\net6.0\PalindromeCreator.deps.json
+C:\Users\dariu\source\repos\PalindromeCreator\PalindromeCreator\bin\Debug\net6.0\PalindromeCreator.runtimeconfig.json
+C:\Users\dariu\source\repos\PalindromeCreator\PalindromeCreator\bin\Debug\net6.0\PalindromeCreator.dll
+C:\Users\dariu\source\repos\PalindromeCreator\PalindromeCreator\bin\Debug\net6.0\PalindromeCreator.pdb
+C:\Users\dariu\source\repos\PalindromeCreator\PalindromeCreator\obj\Debug\net6.0\PalindromeCreator.csproj.AssemblyReference.cache
+C:\Users\dariu\source\repos\PalindromeCreator\PalindromeCreator\obj\Debug\net6.0\PalindromeCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dariu\source\repos\PalindromeCreator\PalindromeCreator\obj\Debug\net6.0\PalindromeCreator.AssemblyInfoInputs.cache
+C:\Users\dariu\source\repos\PalindromeCreator\PalindromeCreator\obj\Debug\net6.0\PalindromeCreator.AssemblyInfo.cs
+C:\Users\dariu\source\repos\PalindromeCreator\PalindromeCreator\obj\Debug\net6.0\PalindromeCreator.csproj.CoreCompileInputs.cache
+C:\Users\dariu\source\repos\PalindromeCreator\PalindromeCreator\obj\Debug\net6.0\PalindromeCreator.dll
+C:\Users\dariu\source\repos\PalindromeCreator\PalindromeCreator\obj\Debug\net6.0\refint\PalindromeCreator.dll
+C:\Users\dariu\source\repos\PalindromeCreator\PalindromeCreator\obj\Debug\net6.0\PalindromeCreator.pdb
+C:\Users\dariu\source\repos\PalindromeCreator\PalindromeCreator\obj\Debug\net6.0\PalindromeCreator.genruntimeconfig.cache
+C:\Users\dariu\source\repos\PalindromeCreator\PalindromeCreator\obj\Debug\net6.0\ref\PalindromeCreator.dll
