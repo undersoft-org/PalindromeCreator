@@ -1,8 +1,11 @@
-﻿class MainClass
+﻿namespace Undersoft.Exercise
 {
-    static void Main()
+    class MainClass
     {
-        Console.WriteLine(Palindrome.Create(Console.ReadLine()));
-    }
+        static void Main()
+        {
+            Console.WriteLine(Palindrome.Create(Console.ReadLine()));
+        }
 
+    }
 }
